@@ -207,17 +207,34 @@ plt.show()
 
 ### Grayscale Histogram Equalization
 
-- Original grayscale image is displayed  
-- Histogram of original grayscale image is plotted  
-- Enhanced image after histogram equalization is displayed  
-- Histogram of enhanced grayscale image shows improved contrast  
+- Original grayscale image is displayed
+  <img width="642" height="471" alt="image" src="https://github.com/user-attachments/assets/95b3c40e-33b4-4cca-b438-0239a59eae83" />
+
+
+- Histogram of original grayscale image is plotted
+<img width="746" height="571" alt="image" src="https://github.com/user-attachments/assets/a0e75db2-d8a7-46d6-a4d7-78702409d1d5" />
+
+  
+- Enhanced image after histogram equalization is displayed
+
+- <img width="1366" height="573" alt="image" src="https://github.com/user-attachments/assets/d1bc0eab-8853-4d88-80f3-2d0132878483" />
+  
 
 ### Color Image Histogram Equalization
 
-- Original color image is displayed  
-- Histogram of B, G, R channels is plotted  
-- Enhanced image after HSV-based equalization is displayed  
-- Histogram of enhanced image shows better intensity distribution  
+- Original color image is displayed
+  <img width="778" height="570" alt="image" src="https://github.com/user-attachments/assets/14cf5694-8efb-4133-abc0-6f0d39cd2ef6" />
+
+- Histogram of B, G, R channels is plotted
+- <img width="863" height="680" alt="image" src="https://github.com/user-attachments/assets/589fe44a-9918-44f0-8dc4-98da0e5a057d" />
+
+- Enhanced image after HSV-based equalization is displayed
+- <img width="857" height="671" alt="image" src="https://github.com/user-attachments/assets/ed0aac69-6669-46db-bd44-23167bf112b2" />
+
+- Histogram of enhanced image shows better intensity distribution
+
+- <img width="757" height="607" alt="image" src="https://github.com/user-attachments/assets/3d5def35-8902-4736-b3eb-516c80db4b9f" />
+
 
 ---
 
